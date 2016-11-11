@@ -1,0 +1,119 @@
+body {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/70/83/06/708306705cd40fd344ef0083273e73fa.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#chara{
+  background-image: url("https://mikit1.github.io/oie_transparent%20(2).png");
+  background-size: cover; 
+  width: 420px;
+  height: 280px;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transition: all 2s;
+}
+
+#boss2{
+   background-image: url("https://mikit1.github.io/oie_transparent%20(9).png");
+  background-size:cover;
+  width: 200px;
+  height: 200px;
+  margin:0 auto;
+  position: fixed;
+  bottom:70%;
+  right:70%;
+  transition: all 4s;
+}
+#boss{
+  background-image:
+  url("https://mikit1.github.io/oie_transparent%20(5).png");
+  background-size: cover;
+  width: 600px;
+  height: 300px;
+  margin:0 auto;
+  position: fixed;
+  bottom:60%;
+  right:30%;
+  transition: all 4s;
+}
+#boss3{
+  background-image:
+  url("https://mikit1.github.io/oie_transparent%20(9).png");
+  background-size:cover;
+  width: 200px;
+  height: 200px;
+  margin:0 auto;
+  position: fixed;
+  bottom:70%;
+  right:40% ;
+  transition:all 4s;
+}
+#boss4{
+  background-image:
+  url("https://mikit1.github.io/oie_transparent%20(9).png");
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  margin:0 auto;
+  position: fixed;
+  bottom:70%;
+  right:50%;
+  transition:all 4s;
+}
+#boss5{
+  background-image:
+  url("https://mikit1.github.io/oie_transparent%20(9).png");
+ back-ground-size:cover;
+  width: 200px;
+  height: 200px;
+  margin:0 auto;
+  position: fixed;
+  bottom:20%;
+  right:40%; 
+   transition:all 4s;
+}
+
+#boss6{
+  background-image:
+  url("https://mikit1.github.io/oie_transparent%20(9).png");
+ back-ground-size:cover;
+  width: 200px;
+  height: 200px;
+  margin:0 auto;
+  position: fixed;
+  bottom:56%;
+  right:10%; 
+   transition:all 4s;
+}
+
+
+#bullet {
+  background: url("https://mikit1.github.io/oie_1024458HbaPQbCv.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0%;
+  left: 35.2%;
+  opacity: 1;
+  transition: top 420ms linear;
+}
+
+
+
+#bullet2 {
+  background: url("https://donaldcarling.files.wordpress.com/2016/03/mine-bullet.png?w=417&h=302&crop=1");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0%;
+  left: 40%;
+  opacity: 1;
+  transition: top 0.3s linear;
+}
