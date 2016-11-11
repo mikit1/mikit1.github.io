@@ -66,7 +66,7 @@ body {
 #boss5{
   background-image:
   url("https://mikit1.github.io/oie_transparent%20(9).png");
- back-ground-size:cover;
+   background-size:cover;
   width: 200px;
   height: 200px;
   margin:0 auto;
@@ -79,7 +79,7 @@ body {
 #boss6{
   background-image:
   url("https://mikit1.github.io/oie_transparent%20(9).png");
- back-ground-size:cover;
+ background-size:cover;
   width: 200px;
   height: 200px;
   margin:0 auto;
@@ -98,12 +98,10 @@ body {
   height: 100px;
   position: absolute;
   top: 0%;
-  left: 35.2%;
+  left: 35.2% !important;
   opacity: 1;
   transition: top 420ms linear;
 }
-
-
 
 #bullet2 {
   background: url("https://donaldcarling.files.wordpress.com/2016/03/mine-bullet.png?w=417&h=302&crop=1");
@@ -115,5 +113,5 @@ body {
   top: 0%;
   left: 40%;
   opacity: 1;
-  transition: top 0.3s linear;
+  transition: top 420ms linear;
 }
